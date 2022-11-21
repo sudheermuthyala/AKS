@@ -11,4 +11,4 @@
 * Worker Nodes
 
 # In EKS (aws)
-*
+* Managed 
