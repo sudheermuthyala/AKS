@@ -27,7 +27,7 @@
     - So we'll have different controllers available here.
     - `node controllers` who are responsible for noticing and responding when worker nodes are down.
     - `replication controllers`, responsible for maintaining the correct number of ports for every application.
-    - endpoint controllers, and then service account,
+    - `endpoint controllers`, and then service account,
 
 and then token controllers.
 
