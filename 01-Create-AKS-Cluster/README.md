@@ -16,7 +16,7 @@
     - Used as a kubernetes backing store for all cluster Data it stores all Master and Node information.
 
 * **Kube-Sheduler :**
-    - It
+    - It's Responsible for 
 # In Regular Kubernets 
 * Worker Nodes
 
