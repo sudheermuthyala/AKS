@@ -31,3 +31,5 @@
     <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
     </p>
+
+## Master Node COmponents
