@@ -13,7 +13,7 @@
 
 * **etcd**
     - ETCD Is Nothing But Consistently highly avillable key value store
-    - Used as a kubernetes backing store for all cluster Data 
+    - Used as a kubernetes backing store for all cluster Data it stores all Master and 
 # In Regular Kubernets 
 * Worker Nodes
 
