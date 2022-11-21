@@ -18,7 +18,7 @@
 * **Kube-Sheduler :**
     - So it is responsible for distributing containers across multiple nodes,which is nothing but multiple worker nodes.
     - It watches for newly created parts with no assigned node and selects a node for them to run on.
-
+* **KubeAPI**
 
 and selects a node for them to run on.
 
