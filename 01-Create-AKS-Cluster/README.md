@@ -42,5 +42,5 @@
 * **Kube-Proxy :**
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-16-03-54.png" />
     </p>
