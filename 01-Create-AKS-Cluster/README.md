@@ -37,9 +37,7 @@
     - So in worker nodes, again, the common thing here is container runtime and in container runtime is the underlying software where we run all the Kubernetes components.So we are using docker, but we have other runtime optionslike RKTR, container D, etc.
 
 * **Kubectl :** 
-    - kubelet it is hart for the worker nodes. kubelet is the agent that runs on every node
-
-in the cluster.
+    - kubelet it is hart for the worker nodes. kubelet is the agent that runs on every node in the cluster.
 
 So this agent is responsible for making sure that
 
