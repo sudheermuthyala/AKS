@@ -9,3 +9,5 @@
 * Azure AKS Node Pools
 # In Regular Kubernets 
 * Worker Nodes
+
+# In AKS
