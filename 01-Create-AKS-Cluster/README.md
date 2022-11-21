@@ -7,4 +7,4 @@
 # In Azure AKS
 * Azure AKS Cluster Control Plaine
 * Azure AKS Node Pools
-# 
+# In Regular Kubernets 
