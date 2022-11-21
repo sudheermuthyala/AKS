@@ -33,7 +33,7 @@
     </p>
 
 ## Worker Node COmponents
-* So in worker nodes, again, the common thing here is container runtimeSo, and in container runtime is the underlying software
+* So in worker nodes, again, the common thing here is container runtime and in container runtime is the underlying software
 
 where we run all the Kubernetes components.
 
