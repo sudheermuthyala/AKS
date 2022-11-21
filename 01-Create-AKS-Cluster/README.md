@@ -23,6 +23,35 @@
     - So command line tools, like kube CTL, or users,and even the master components like scheduler,controller manager, and etcd,and worker node components like kubelet.Everything can talk to this kube APA server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
 
 * **AKS kube Controller Manager :**
+    - So controllers are responsible for noticing,
+
+and then responding when nodes, containers,
+
+or endpoints go down.
+
+So we'll have different controllers available here.
+
+So node controllers who are responsible for noticing
+
+and responding when worker nodes are down.
+
+Our replication controllers, responsible for maintaining
+
+the correct number of ports for every application.
+
+Our endpoint controllers, and then service account,
+
+and then token controllers.
+
+So, many controllers will be available for us
+
+under this kube controller manager.
+
+And let's go to the worker nodes.
+
+So in worker nodes, again, the common thing here
+
+is container runtime, right?
 # In Regular Kubernets 
 * Worker Nodes
 
