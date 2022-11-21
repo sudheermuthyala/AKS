@@ -19,7 +19,7 @@
     - So it is responsible for distributing containers across multiple nodes,which is nothing but multiple worker nodes.
     - It watches for newly created parts with no assigned node and selects a node for them to run on.
 * **Kube-APIServer :**
-    - So it acts as a front end for the Kubernetes control plane. It exposes the Kubernetes APA.
+    - So it acts as a front end for the Kubernetes control plane. It exposes the Kubernetes API.
     - So command line tools, like kube CTL, or users,and even the master components like scheduler,controller manager, and etcd,and worker node components like kubelet.Everything can talk to this kube APA server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
 
 * **AKS kube Controller Manager :**
