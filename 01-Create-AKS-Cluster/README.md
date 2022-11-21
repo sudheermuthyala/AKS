@@ -10,4 +10,4 @@
 # In Regular Kubernets 
 * Worker Nodes
 
-# In AKS
+# In EKS ()
