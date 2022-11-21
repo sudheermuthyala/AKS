@@ -5,4 +5,4 @@
 ![](2022-11-21-14-47-16.png)
 ## Key words 
 * Azure AKS Cluster Control Plaine
-* Azure 
+* Azure AKS Node Pools
