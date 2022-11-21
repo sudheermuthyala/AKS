@@ -22,7 +22,7 @@
     - So it acts as a front end for the Kubernetes control plane. It exposes the Kubernetes APA.
     - So command line tools, like kube CTL, or users,and even the master components like scheduler,controller manager, and etcd,and worker node components like kubelet.Everything can talk to this kube APA server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
 
-* ****
+* **AKS**
 # In Regular Kubernets 
 * Worker Nodes
 
