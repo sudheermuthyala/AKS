@@ -37,4 +37,22 @@
     - So in worker nodes, again, the common thing here is container runtime and in container runtime is the underlying software where we run all the Kubernetes components.So we are using docker, but we have other runtime optionslike RKTR, container D, etc.
 
 * **Kubectl :** 
--
+    - So now next comes the kubelet.
+
+So it is hard for the worker nodes.
+
+So kubelet is the agent that runs on every node
+
+in the cluster.
+
+So this agent is responsible for making sure that
+
+containers are running in a port on a node.
+
+And these will be always in constant communication
+
+with the kube scheduler.
+
+So kube scheduler, from master node, talks to worker nodes
+
+to the kubelet.
