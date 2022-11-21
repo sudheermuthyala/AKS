@@ -38,3 +38,5 @@
 
 * **Kubectl :** 
     - kubelet it is hart for the worker nodes. kubelet is the agent that runs on every node in the cluster agent is responsible for making sure that containers are running in a pod on a node.And these will be always in constant communication with the `kube-scheduler` So kube-scheduler, from master node, talks to worker nodes to the kubelet.
+
+
