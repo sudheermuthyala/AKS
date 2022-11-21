@@ -25,7 +25,7 @@
 * **AKS kube Controller Manager :**
     - So controllers are responsible for noticing,and then responding when nodes, containers,or endpoints go down.
     - So we'll have different controllers available here.
-    - So `node controllers` who are responsible for noticing and responding when worker nodes are down.
+    - `node controllers` who are responsible for noticing and responding when worker nodes are down.
     - `replication controllers`, responsible for maintaining
 
 the correct number of ports for every application.
