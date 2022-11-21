@@ -8,7 +8,8 @@
 * Azure AKS Cluster Control Plaine (Master Component)
 * Azure AKS Node Pools 
 ## Master Node COmponents
-* Container Runtime ()
+* Container Runtime (Docker)
+*
 # In Regular Kubernets 
 * Worker Nodes
 
