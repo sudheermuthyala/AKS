@@ -5,7 +5,7 @@
 ![](2022-11-21-14-47-16.png)
 ## Key words 
 # In Azure AKS
-* Azure AKS Cluster Control Plaine (Master Component)
+* Azure AKS Cluster Control Plaine (Master Node Component)
 * Azure AKS Node Pools 
 ## Master Node COmponents
 * Container Runtime (Docker)
