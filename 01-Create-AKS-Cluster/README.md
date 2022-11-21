@@ -12,7 +12,7 @@
     - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
 
 * **etcd**
-    - ETCD Is Nothing But Consistentle
+    - ETCD Is Nothing But Consistentle HIgj
 # In Regular Kubernets 
 * Worker Nodes
 
