@@ -4,4 +4,4 @@
 ## Very high level AKS Kubernets architecture
 ![](2022-11-21-14-47-16.png)
 ## Key words 
-* A
+* Azure 
