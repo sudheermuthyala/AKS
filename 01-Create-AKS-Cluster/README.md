@@ -16,7 +16,7 @@
     - Used as a kubernetes backing store for all cluster Data it stores all Master and Node information.
 
 * **Kube-Sheduler :**
-    - So it is responsible for distributing containers across multiple nodes,
+    - So it is responsible for distributing containers across multiple nodes,which is nothing but multiple worker nodes.
 
 across multiple nodes,
 # In Regular Kubernets 
