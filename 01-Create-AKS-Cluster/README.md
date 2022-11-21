@@ -13,6 +13,7 @@
 
 * **etcd**
     - ETCD Is Nothing But Consistently highly avillable key value store
+    - Used as a
 # In Regular Kubernets 
 * Worker Nodes
 
