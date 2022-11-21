@@ -30,5 +30,5 @@
     - `endpoint controllers`, and then `service account`,and then `token controllers` So, many controllers will be available under this API kube controller manager.
     
     <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
     </p>
