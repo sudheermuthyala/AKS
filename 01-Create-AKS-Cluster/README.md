@@ -29,11 +29,7 @@
     - `replication controllers`, responsible for maintaining the correct number of ports for every application.
     - `endpoint controllers`, and then `service account`,and then `token controllers` So, many controllers will be available under this API kube controller manager.
 
-And let's go to the worker nodes.
 
-So in worker nodes, again, the common thing here
-
-is container runtime, right?
 # In Regular Kubernets 
 * Worker Nodes
 
