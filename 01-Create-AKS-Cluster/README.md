@@ -1,2 +1,2 @@
 # Create AKS Cluster
-##  Introduction
+## Introduction
