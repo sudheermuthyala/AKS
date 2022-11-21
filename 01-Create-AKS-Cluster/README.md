@@ -7,7 +7,7 @@
 # In Azure AKS
 * Azure AKS Cluster Control Plaine (Master Component)
 * Azure AKS Node Pools 
-
+## Ma
 # In Regular Kubernets 
 * Worker Nodes
 
