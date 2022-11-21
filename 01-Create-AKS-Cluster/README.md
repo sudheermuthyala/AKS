@@ -6,7 +6,7 @@
 ## Key words 
 # In Azure AKS
 * Azure AKS Cluster Control Plaine (Master Node Component)
-* Azure AKS Node Pools 
+* Azure AKS Node Pools (Worker Node )
 ## Master Node COmponents
 * Container Runtime (Docker)
 *
