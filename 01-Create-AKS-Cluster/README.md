@@ -12,7 +12,7 @@
     - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
 
 * **etcd**
-    - ETCD Is Nothing But Consistently highly avillable key
+    - ETCD Is Nothing But Consistently highly avillable key value store
 # In Regular Kubernets 
 * Worker Nodes
 
