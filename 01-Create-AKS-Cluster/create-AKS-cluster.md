@@ -86,6 +86,8 @@ kubectl get all --all-namespaces
 # Install Azure CLI (MAC)
 brew update && brew install azure-cli
 
+winget install -e --id Microsoft.AzureCLI
+
 # Login to Azure
 az login
 
