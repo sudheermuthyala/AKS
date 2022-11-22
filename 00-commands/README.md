@@ -29,7 +29,7 @@ kubectl get pods
 
 # Verify Deployment
 kubectl get deployment
-kubectl get deploy
+kubectl get deploy (alias)
 
 
 # Verify Service (Make a note of external ip)
