@@ -37,4 +37,4 @@ kubectl get service
 http://<External-IP-from-get-service-output>
 ```
 
-- 
+- kubectl describe pods
