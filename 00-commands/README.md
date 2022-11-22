@@ -37,4 +37,4 @@ kubectl get service
 http://<External-IP-from-get-service-output>
 ```
 
-- kubectl describe pods myapp1-deployment-6f6b58f6d7-9nz67>
+- kubectl describe pods myapp1-deployment-6f6b58f6d7-9nz67
