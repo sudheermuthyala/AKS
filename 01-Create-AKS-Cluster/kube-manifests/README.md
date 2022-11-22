@@ -1,3 +1,4 @@
 ## Deploy Sample Application and Test
-     Deploy Application
+
+# Deploy Application
 kubectl apply -f kube-manifests/
