@@ -84,7 +84,6 @@ kubectl get all --all-namespaces
 ## Local Desktop - Install Azure CLI and Azure AKS CLI
 ```
 # Install Azure CLI (Windo)
-
 winget install -e --id Microsoft.AzureCLI
 
 # Install Azure AKS CLI
