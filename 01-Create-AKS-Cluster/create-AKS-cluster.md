@@ -93,7 +93,7 @@ az login
 az aks install-cli
 
 # Configure Cluster Creds (kube config)
-az aks get-credentials --resource-group aks-rg1 --name aksdemo1
+
 az aks get-credentials --resource-group aks-rg-1 --name aks-Demo-cluster
 
 # List AKS Nodes
