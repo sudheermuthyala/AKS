@@ -39,6 +39,7 @@ az aks get-credentials --resource-group <Resource-Group-Name> --name <Cluster-Na
 # Replace Resource Group & Cluster Name
 
 az aks get-credentials --resource-group aks-rg-1 --name aks-Demo-cluster
+
 ```
 
 ##  Explore Cluster Control Plane and Workload inside that
