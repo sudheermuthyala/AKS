@@ -92,8 +92,6 @@ az aks install-cli
 # Login to Azure
 az login
 
-
-
 # Configure Cluster Creds (kube config)
 
 az aks get-credentials --resource-group aks-rg-1 --name aks-Demo-cluster
