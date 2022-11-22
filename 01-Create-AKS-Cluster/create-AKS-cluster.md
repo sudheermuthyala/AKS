@@ -105,6 +105,7 @@ kubectl get nodes -o wide
 - https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest
 
 
+## 
 
 ```
 # Deploy Application
