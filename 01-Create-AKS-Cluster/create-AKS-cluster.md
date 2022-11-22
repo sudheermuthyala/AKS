@@ -39,6 +39,7 @@ az aks get-credentials --resource-group <Resource-Group-Name> --name <Cluster-Na
 # Replace Resource Group & Cluster Name
 
 az aks get-credentials --resource-group aks-rg-1 --name aks-Demo-cluster
+
 # List Kubernetes Worker Nodes
 kubectl get nodes 
 kubectl get nodes -o wide
