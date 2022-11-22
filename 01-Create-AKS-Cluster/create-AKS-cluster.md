@@ -29,6 +29,30 @@
 - **Review + Create**
   - Click on **Create**
 
+ Explore the AKS cluster on Azure Management Console
+- Explore the following features on high-level
+- **Overview**
+  - Activity Log
+  - Access Control (IAM)
+  - Security
+  - Diagnose and solver problems
+- **Settings**
+  - Node Pools
+  - Upgrade
+  - Scale
+  - Networking
+  - DevSpaces
+  - Deployment Center
+  - Policies
+- **Monitoring**
+  - Insights
+  - Alerts
+  - Metrics
+  - and many more 
+- **VM Scale Sets**
+  - Verify Azure VM Instances
+  - Verify if **Enhanced Networking is enabled or not**  
+
  # Explore the AKS cluster on Azure Management Console
 - Explore the following features on high-level
 - **Overview**
