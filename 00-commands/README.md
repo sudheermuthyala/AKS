@@ -19,5 +19,19 @@ kubectl get pods --all-namespaces
 # List all k8s objects from Cluster Control plane
 kubectl get all --all-namespaces
 ```
+```
 # Deploy Application
-- kubectl apply -f kube-manifests
+kubectl apply -f kube-manifests/
+
+# Verify Pods
+kubectl get pods
+
+# Verify Deployment
+kubectl get deployment
+
+# Verify Service (Make a note of external ip)
+kubectl get service
+
+# Access Application
+http://<External-IP-from-get-service-output>
+```
