@@ -81,7 +81,7 @@ kubectl get all --all-namespaces
   - Verify Azure VM Instances
   - Verify if **Enhanced Networking is enabled or not**  
 
-## Step-06: Local Desktop - Install Azure CLI and Azure AKS CLI
+## Local Desktop - Install Azure CLI and Azure AKS CLI
 ```
 # Install Azure CLI (MAC)
 brew update && brew install azure-cli
