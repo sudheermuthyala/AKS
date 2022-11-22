@@ -29,7 +29,7 @@
 - **Review + Create**
   - Click on **Create**
 
- Explore the AKS cluster on Azure Management Console
+ # Explore the AKS cluster on Azure Management Console
 - Explore the following features on high-level
 - **Overview**
   - Activity Log
