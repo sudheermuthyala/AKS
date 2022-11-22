@@ -32,7 +32,7 @@ kubectl get deployment
 
 # Verify Service (Make a note of external ip)
 kubectl get service
-kubectl
+kubectl get svc (alias)
 
 # Access Application
 http://<External-IP-from-get-service-output>
