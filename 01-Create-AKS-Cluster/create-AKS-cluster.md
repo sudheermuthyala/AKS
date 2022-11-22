@@ -80,3 +80,25 @@ kubectl get all --all-namespaces
 - **VM Scale Sets**
   - Verify Azure VM Instances
   - Verify if **Enhanced Networking is enabled or not**  
+
+## Step-06: Local Desktop - Install Azure CLI and Azure AKS CLI
+```
+# Install Azure CLI (MAC)
+brew update && brew install azure-cli
+
+# Login to Azure
+az login
+
+# Install Azure AKS CLI
+az aks install-cli
+
+# Configure Cluster Creds (kube config)
+az aks get-credentials --resource-group aks-rg1 --name aksdemo1
+
+# List AKS Nodes
+kubectl get nodes 
+kubectl get nodes -o wide
+```
+- **Reference Documentation Links**
+- https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+- https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest
