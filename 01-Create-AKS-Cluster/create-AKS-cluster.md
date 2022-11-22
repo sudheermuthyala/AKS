@@ -104,6 +104,8 @@ kubectl get nodes -o wide
 - https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
 - https://docs.microsoft.com/en-us/cli/azure/aks?view=azure-cli-latest
 
+
+
 ```
 # Deploy Application
 kubectl apply -f kube-manifests/
