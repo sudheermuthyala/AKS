@@ -36,3 +36,5 @@ kubectl get service
 # Access Application
 http://<External-IP-from-get-service-output>
 ```
+
+- 
