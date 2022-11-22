@@ -87,11 +87,13 @@ kubectl get all --all-namespaces
 
 winget install -e --id Microsoft.AzureCLI
 
+# Install Azure AKS CLI
+az aks install-cli
+
 # Login to Azure
 az login
 
-# Install Azure AKS CLI
-az aks install-cli
+
 
 # Configure Cluster Creds (kube config)
 
