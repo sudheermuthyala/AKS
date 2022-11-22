@@ -20,4 +20,4 @@ kubectl get pods --all-namespaces
 kubectl get all --all-namespaces
 ```
 # Deploy Application
-kubectl apply -f kube-manifests/
+kubectl apply -f kube-manifests
