@@ -7,6 +7,7 @@ kubectl get nodes -o wide
 
 ## Explore Cluster Control Plane and Workload inside that
 # List Namespaces
+
 ```
 # List Namespaces
 kubectl get namespaces
