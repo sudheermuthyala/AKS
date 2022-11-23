@@ -20,12 +20,9 @@ dependencies
     </p>
 
 ## Physical Machines
-![](2022-11-23-11-24-36.png)
-
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-23-11-24-36.png" />
     </p>
-    
 ## Virtual Machines
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-23-11-27-02.png" />
