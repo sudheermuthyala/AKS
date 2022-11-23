@@ -18,5 +18,5 @@ dependencies
 ![](2022-11-23-11-15-41.png)
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
+  <img src="" />
     </p>
