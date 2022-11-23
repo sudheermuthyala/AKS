@@ -20,5 +20,5 @@ dependencies
     </p>
 
 ## Physical Machines
-
+![](2022-11-23-11-24-36.png)
 ## Virtual Machines
