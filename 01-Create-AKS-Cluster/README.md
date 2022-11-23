@@ -28,9 +28,7 @@
     - `node controllers` who are responsible for noticing and responding when worker nodes are down.
     - `replication controllers`, responsible for maintaining the correct number of ports for every application.
     - `endpoint controllers`, and then `service account`,and then `token controllers` So, many controllers will be available under this API kube controller manager.
-    <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
-    </p>
+    
 
 ## Worker Node COmponents
 * **container runtime :**  
