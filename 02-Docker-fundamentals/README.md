@@ -7,6 +7,6 @@
 2. **Compatibility & Dependency**
 - Need to keep resolving issues related to libraries and
 dependencies
-3. Inconsistencies across Environments
+3. **Inconsistencies across Environments**
 - Very hard to track changes across Dev/QA/Staging and Prod environments and they end up with inconsistencies
-4. Operational Support
+4. **Operational Support**
