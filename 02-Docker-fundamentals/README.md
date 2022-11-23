@@ -13,4 +13,4 @@ dependencies
 - Need more resources to handle operational issues on day to day basis
     - Server Support (hardware, software)
     - Patching releases
-• Developer Environments
+    - Developer Environments
