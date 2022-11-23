@@ -4,3 +4,5 @@
 # AKS Context
 1. create AKS Cluster
 2. Configure kubectl to connect to AKS Cluster
+
+Explore AKS Cluster using kubectl and Azure Mgmt Console
