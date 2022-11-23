@@ -11,6 +11,6 @@ dependencies
 - Very hard to track changes across Dev/QA/Staging and Prod environments and they end up with inconsistencies
 4. **Operational Support**
 - Need more resources to handle operational issues on day to day basis
-• Server Support (hardware, software)
+    - Server Support (hardware, software)
 • Patching releases
 • Developer Environments
