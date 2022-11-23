@@ -16,3 +16,7 @@ dependencies
 5. **Developer Environments**
 - • When a new developer joins the team, time it takes to provision his development environment in traditional approach is time taking.
 ![](2022-11-23-11-15-41.png)
+
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-15-27-23.png" />
+    </p>
