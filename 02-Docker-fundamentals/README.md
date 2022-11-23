@@ -3,5 +3,4 @@
 
 # Installation & Configuration
 - Time consuming
-- Need to perform install/configs on every server and every
-environment (dev, qa, staging, production)
+- Need to perform install/configs on every server and everyenvironment (dev, qa, staging, production)
