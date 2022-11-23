@@ -15,4 +15,3 @@ dependencies
     - Patching releases
 5. **Developer Environments**
 - • When a new developer joins the team, time it takes to provision his development environment in traditional approach is time taking.
-image.png
