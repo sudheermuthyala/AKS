@@ -1,10 +1,10 @@
 ## What problems we have with Traditional Infra?
 ## Traditional Approach
 
-1. **Installation & Configuration
+1. **Installation & Configuration**
 - Time consuming
 - Need to perform install/configs on every server and every environment (dev, qa, staging, production)
-2. Compatibility & Dependency
+2. **Compatibility & Dependency**
 - Need to keep resolving issues related to libraries and
 dependencies
 3. Inconsistencies across Environments
