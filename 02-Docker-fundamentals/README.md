@@ -27,3 +27,6 @@ dependencies
     </p>
 ## Virtual Machines
 ![](2022-11-23-11-27-02.png)
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/" />
+    </p>
