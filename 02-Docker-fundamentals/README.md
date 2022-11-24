@@ -76,8 +76,6 @@ our application run.
 - When a container is removed, any changes to its state that are not stored in persistent
 storage disappear
 
-![](2022-11-24-16-28-38.png)
-
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-24-16-28-38.png" />
     </p>
