@@ -59,5 +59,5 @@ be containerized.
 - The Docker client (docker) is the primary way that many Docker users interact with Docker.
 - When you use commands such as docker run, the client sends these commands to dockerd
 (Docker Daemon), which carries them out.
-• The docker command uses the Docker API.
-• The Docker client can communicate with more than one daemon.
+- The docker command uses the Docker API.
+- The Docker client can communicate with more than one daemon.
