@@ -116,3 +116,5 @@ docker exec -it <container-name> /bin/sh
 docker stop <container-name>
 docker start  <container-name>
 ```
+
+## Remove Container
