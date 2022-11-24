@@ -87,3 +87,7 @@ docker login
 ```
 
 ##  Pull Image from Docker Hub
+
+```
+docker pull stacksimplify/dockerintro-springboot-helloworld-rest-api:1.0.0-RELEASE
+```
