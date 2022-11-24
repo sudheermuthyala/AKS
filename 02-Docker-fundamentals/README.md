@@ -53,4 +53,4 @@ be containerized.
 ## Docker Architecture
 
 - **Docker Daemon :** The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes.
-- 
+- **Docker Client :** 
