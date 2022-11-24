@@ -75,3 +75,5 @@ our application run.
 - We can connect a container to one or more networks, attach storage to it, or even create a new image based on its current state.
 - When a container is removed, any changes to its state that are not stored in persistent
 storage disappear
+
+![](2022-11-24-16-28-38.png)
