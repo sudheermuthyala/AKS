@@ -39,6 +39,5 @@ dependencies
 ## Why Containers ?
 - **Flexible :** Even the most complex applications can
 be containerized.
-- **Lightweight :** Containers leverage and share the host kernel, making
-them much more efficient in terms of system
-resources than virtual machines.
+- **Lightweight :** Containers leverage and share the host kernel, making them much more efficient in terms of system resources than virtual machines.
+- 
