@@ -81,3 +81,7 @@ storage disappear
     </p>
 
 ## Verify Docker version and also login to Docker Hub
+```
+docker version
+docker login
+```
