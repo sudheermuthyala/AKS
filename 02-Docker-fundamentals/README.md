@@ -124,4 +124,5 @@ docker stop <container-name>
 docker rm <container-name>
 ```
 
-## 
+## Remove Image
+
