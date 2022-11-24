@@ -37,4 +37,5 @@ dependencies
 ## Advantages of using Docker
 
 ## Why Containers ?
-- **Flexible**
+- **Flexible :** Even the most complex applications can
+be containerized.
