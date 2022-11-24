@@ -63,9 +63,9 @@ be containerized.
 - The Docker client can communicate with more than one daemon.
 
 **Docker Images**
-An image is a read-only template with instructions for creating a Docker container.
-• Often, an image is based on another image, with some additional customization.
-• For example, we may build an image which is based on the ubuntu image, but installs the
+- An image is a read-only template with instructions for creating a Docker container.
+- Often, an image is based on another image, with some additional customization.
+- For example, we may build an image which is based on the ubuntu image, but installs the
 Apache web server and our application, as well as the configuration details needed to make
 our application run.
 • Docker Containers • A container is a runnable instance of an image.
