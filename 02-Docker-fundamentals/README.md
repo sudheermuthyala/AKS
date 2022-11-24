@@ -71,7 +71,7 @@ our application run.
 
 **Docker Containers** 
 - A container is a runnable instance of an image.
-• We can create, start, stop, move, or delete a container using the Docker API or CLI.
+We can create, start, stop, move, or delete a container using the Docker API or CLI.
 • We can connect a container to one or more networks, attach storage to it, or even create a new image based on its current state.
 • When a container is removed, any changes to its state that are not stored in persistent
 storage disappear
