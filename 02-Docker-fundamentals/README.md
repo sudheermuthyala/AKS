@@ -37,4 +37,4 @@ dependencies
 ## Advantages of using Docker
 
 ## Why Containers ?
-- 
+- **Flexible**
