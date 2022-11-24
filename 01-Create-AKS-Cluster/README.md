@@ -21,7 +21,7 @@
 * **Kube-APIServer :**
     - So it acts as a front end for the Kubernetes control plane. It exposes the Kubernetes API.
     - So command line tools, like `kubectl`, `users`,and even ***master components*** like `scheduler`,`controller manager`, and `etcd`,and ***worker node components*** like `kubelet`.Everything can talk to this kube-API-server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
-    - it will Talk ot All the components in the ***master components*** and ***worker node components***
+    - It will Talk ot All the components in the ***master components*** and ***worker node components***
 
 * **AKS kube Controller Manager :**
     - So controllers are responsible for noticing,and then responding when nodes, containers,or endpoints go down.
