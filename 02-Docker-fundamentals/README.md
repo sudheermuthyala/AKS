@@ -139,3 +139,5 @@ docker run --name mynginxdefault -p 80:80 -d nginx
 docker ps
 docker stop mynginxdefault
 ```
+
+ Create Dockerfile and copy our customized index.html
