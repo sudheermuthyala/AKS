@@ -79,3 +79,5 @@ storage disappear
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-24-16-28-38.png" />
     </p>
+
+## Verify Docker version and also login to Docker Hub
