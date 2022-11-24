@@ -44,3 +44,7 @@ be containerized.
 - **Loosely Coupled :** Containers are highly self sufficient and encapsulated, allowing you to replace or upgrade one without disrupting others.
 - **Scalable :** You can increase and automatically distribute container replicas across a datacenter.
 - **Secure :** Containers apply aggressive constraints and isolations to processes without any configuration required on the part of the user.
+
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-23-11-30-15.png" />
+    </p>
