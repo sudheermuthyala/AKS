@@ -132,3 +132,5 @@ docker rmi  <image-id>
 ```
 
 ## Create a new Docker Image, Run as Container and Push to Docker Hub
+
+# Run the base Nginx container
