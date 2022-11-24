@@ -118,3 +118,7 @@ docker start  <container-name>
 ```
 
 ## Remove Container
+
+```
+docker stop <container-name> 
+docker rm <container-name>
