@@ -112,3 +112,7 @@ docker exec -it <container-name> /bin/sh
 ```
 
 ## Container Stop, Start
+```
+docker stop <container-name>
+docker start  <container-name>
+```
