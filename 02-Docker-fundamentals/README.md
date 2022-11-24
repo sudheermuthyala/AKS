@@ -126,3 +126,7 @@ docker rm <container-name>
 
 ## Remove Image
 
+```
+docker images
+docker rmi  <image-id>
+```
