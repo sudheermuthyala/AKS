@@ -134,3 +134,8 @@ docker rmi  <image-id>
 ## Create a new Docker Image, Run as Container and Push to Docker Hub
 
 # Run the base Nginx container
+```
+docker run --name mynginxdefault -p 80:80 -d nginx
+docker ps
+docker stop mynginxdefault
+```
