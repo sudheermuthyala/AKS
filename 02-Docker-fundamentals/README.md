@@ -130,3 +130,5 @@ docker rm <container-name>
 docker images
 docker rmi  <image-id>
 ```
+
+## Create a new Docker Image, Run as Container and Push to Docker Hub
