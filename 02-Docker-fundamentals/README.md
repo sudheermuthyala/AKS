@@ -146,4 +146,6 @@ docker stop mynginxdefault
  FROM nginx
  COPY index.html /usr/share/nginx/html
  ```
- ## 
+ ## Build Docker Image & run it
+
+
