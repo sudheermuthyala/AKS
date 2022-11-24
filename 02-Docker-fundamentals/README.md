@@ -93,3 +93,7 @@ docker pull stacksimplify/dockerintro-springboot-helloworld-rest-api:1.0.0-RELEA
 ```
 
 ## Run the downloaded Docker Image & Access the Application
+
+```
+docker run --name app1 -p 80:8080 -d stacksimplify/dockerintro-springboot-helloworld-rest-api:1.0.0-RELEASE
+```
