@@ -33,3 +33,5 @@ dependencies
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-23-11-30-15.png" />
     </p>
+
+## Advantages of using Docker
