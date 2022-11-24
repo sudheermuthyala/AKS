@@ -140,4 +140,5 @@ docker ps
 docker stop mynginxdefault
 ```
 
- Create Dockerfile and copy our customized index.html
+ ## Create Dockerfile and copy our customized index.html
+ 
