@@ -45,7 +45,7 @@ be containerized.
 - **Scalable :** You can increase and automatically distribute container replicas across a datacenter.
 - **Secure :** Containers apply aggressive constraints and isolations to processes without any configuration required on the part of the user.
 
-
+![](2022-11-24-16-16-35.png)
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/" />
     </p>
