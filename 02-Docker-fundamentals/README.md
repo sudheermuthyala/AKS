@@ -86,4 +86,4 @@ docker version
 docker login
 ```
 
-## 
+##  Pull Image from Docker Hub
