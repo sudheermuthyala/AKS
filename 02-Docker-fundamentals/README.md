@@ -39,4 +39,4 @@ dependencies
 ## Why Containers ?
 - **Flexible :** Even the most complex applications can
 be containerized.
-- ****
+- **Lightweight :**
