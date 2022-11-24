@@ -100,3 +100,8 @@ docker run --name app1 -p 80:8080 -d stacksimplify/dockerintro-springboot-hellow
 
 ## List Running Containers
 
+```
+docker ps
+docker ps -a
+docker ps -a -q
+```
