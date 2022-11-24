@@ -142,4 +142,7 @@ docker stop mynginxdefault
 
  ## Create Dockerfile and copy our customized index.html
  - Dockerfile
- 
+ ```
+ FROM nginx
+COPY index.html /usr/share/nginx/html
+ ```
