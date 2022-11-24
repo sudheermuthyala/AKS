@@ -20,7 +20,7 @@
     - It watches for newly created parts with no assigned node and selects a node for them to run on.
 * **Kube-APIServer :**
     - So it acts as a front end for the Kubernetes control plane. It exposes the Kubernetes API.
-    - So command line tools, like kube CTL, or users,and even the master components like scheduler,controller manager, and etcd,and worker node components like kubelet.Everything can talk to this kube APA server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
+    - So command line tools, like `kubectl`, or users,and even the master components like scheduler,controller manager, and etcd,and worker node components like kubelet.Everything can talk to this kube APA server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
 
 * **AKS kube Controller Manager :**
     - So controllers are responsible for noticing,and then responding when nodes, containers,or endpoints go down.
