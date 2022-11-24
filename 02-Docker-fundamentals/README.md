@@ -52,3 +52,4 @@ be containerized.
 
 ## Docker Architecture
 
+- **Docker Daemon**
