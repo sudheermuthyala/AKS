@@ -168,3 +168,5 @@ Replace your docker hub account Id
 docker tag <your-docker-hub-id>/mynginx_image1:v1 <your-docker-hub-id>/mynginx_image1:v1-release
 docker push <your-docker-hub-id>/mynginx_image1:v1-release
 ```
+
+## Docker - Essential Commands
