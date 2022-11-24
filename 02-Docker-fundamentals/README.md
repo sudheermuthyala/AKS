@@ -41,4 +41,4 @@ dependencies
 be containerized.
 - **Lightweight :** Containers leverage and share the host kernel, making them much more efficient in terms of system resources than virtual machines.
 - **Portable** You can build locally, deploy to the cloud, and run anywhere.
-- **Loosely Coupled**
+- **Loosely Coupled :**
