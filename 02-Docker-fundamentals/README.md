@@ -50,3 +50,5 @@ be containerized.
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/02-Docker-fundamentals/2022-11-24-16-16-35.png" />
     </p>
 
+## Docker Architecture
+
