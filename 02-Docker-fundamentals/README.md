@@ -43,4 +43,4 @@ be containerized.
 - **Portable :** You can build locally, deploy to the cloud, and run anywhere.
 - **Loosely Coupled :** Containers are highly self sufficient and encapsulated, allowing you to replace or upgrade one without disrupting others.
 - **Scalable :** You can increase and automatically distribute container replicas across a datacenter.
-- Secure :
+- **Secure :** 
