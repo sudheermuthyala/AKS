@@ -8,3 +8,7 @@
         - automatic bin packing, 
         - self-healing,
         - secrets and configuration management.
+
+##  Kubernetes components
+
+in its architecture, right?
