@@ -4,8 +4,7 @@
     - out of the box the following features are available in Kubernetes.
         - Service discovery and load balancing,
         - storage orchestration, 
-        automated rollouts and rollbacks,
-
-automatic bin packing, self-healing,
-
+        - automated rollouts and rollbacks,
+        - automatic bin packing, self-healing,
+        
 secrets and then configuration management.
