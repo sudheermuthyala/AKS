@@ -48,6 +48,7 @@ container runtime is mandatory
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
 ## Kubernetes - Architecture
 
+
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-30-14-39-01.png" />
     </p>
