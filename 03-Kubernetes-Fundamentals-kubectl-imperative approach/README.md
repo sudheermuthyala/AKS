@@ -13,6 +13,10 @@
 - So primarily, we see like we'll have both master and then worker nodes in the Kubernetes.
 - And on all these nodes we'll have the container runtime installed.Whether it is master or worker nodes,
 container runtime is mandatory
+
+*  **Container Runtime (Docker):** 
+    - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
+
 * **etcd :**
     - ETCD Is Nothing But Consistently highly avillable key value store
     - Used as a kubernetes backing store for all cluster Data it stores all Master and Node information.
