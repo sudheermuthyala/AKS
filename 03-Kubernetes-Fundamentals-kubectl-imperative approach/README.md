@@ -3,8 +3,8 @@
 - So Kubernetes is a portable, extensible,open source platform for managing container workloads.
     - out of the box the following features are available in Kubernetes.
         - Service discovery and load balancing,
-
-storage orchestration, automated rollouts and rollbacks,
+        - storage orchestration, 
+        automated rollouts and rollbacks,
 
 automatic bin packing, self-healing,
 
