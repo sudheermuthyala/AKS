@@ -27,7 +27,7 @@ container runtime is mandatory
     - So command line tools, like `kubectl`, `users`,and even ***master components*** like `scheduler`,`controller manager`, and `etcd`,and ***worker node components*** like `kubelet`.Everything can talk to this kube-API-server to perform the operations on the master,and selects a node for them to run on.across multiple nodes,
     - It will Talk ot All the components in the ***master Node components*** and ***worker node components***
 
-* **AKS kube Controller Manager :**
+* **kube Controller Manager :**
     - kube Controller Manager are responsible for noticing, then responding when nodes, containers,or endpoints go down.
     - So we'll have different controllers available here.
     - `node controllers` who are responsible for noticing and responding when worker nodes are down.
