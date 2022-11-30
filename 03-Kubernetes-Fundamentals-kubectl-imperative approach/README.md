@@ -9,6 +9,4 @@
         - self-healing,
         - secrets and configuration management.
 
-##  Kubernetes components
-
-in its architecture, right?
+##  Kubernetes components in its architecture, right?
