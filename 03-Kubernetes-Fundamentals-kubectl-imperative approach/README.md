@@ -14,7 +14,7 @@
 - And on all these nodes we'll have the container runtime installed.Whether it is master or worker nodes,
 container runtime is mandatory
 
-## Master Node COmponents
+## 1.Master Node COmponents
 
 *  **Container Runtime (Docker):** 
     - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
