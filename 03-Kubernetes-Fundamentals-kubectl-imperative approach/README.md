@@ -6,5 +6,4 @@
         - storage orchestration, 
         - automated rollouts and rollbacks,
         - automatic bin packing, self-healing,
-        
-secrets and then configuration management.
+        - secrets and then configuration management.
