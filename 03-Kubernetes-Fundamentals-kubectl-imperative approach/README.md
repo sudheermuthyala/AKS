@@ -34,7 +34,7 @@ container runtime is mandatory
     - `replication controllers`, responsible for maintaining the correct number of ports for every application.
     - `endpoint controllers`, and then `service account`,and then `token controllers` So, many controllers will be available under this API kube controller manager.
 
-* **Cloud Control**
+* **Cloud Control Manager**
     
 
 ## Worker Node COmponents
