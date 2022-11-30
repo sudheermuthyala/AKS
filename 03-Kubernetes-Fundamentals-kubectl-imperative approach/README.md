@@ -47,17 +47,7 @@ container runtime is mandatory
 * **Kube-Proxy :**
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
 ## Kubernetes - Architecture
-Kube
-Controller 
-Manager
-Cloud 
-Controller 
-Manager
-kube-apiserver
-kubescheduler etcd
-Container Runtime (Docker)
-Master 
-Kube-Proxy
+
 Worker Nod
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-30-14-39-01.png" />
