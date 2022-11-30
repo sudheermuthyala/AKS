@@ -44,7 +44,4 @@
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-21-16-03-54.png" />
     </p>
 
-<p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/01-Create-AKS-Cluster/2022-11-30-14-39-01.png" />
-    </p>
 
