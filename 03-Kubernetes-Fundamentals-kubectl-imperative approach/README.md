@@ -11,4 +11,5 @@
 
 ##  Kubernetes components in its architecture
 - So primarily, we see like we'll have both master and then worker nodes in the Kubernetes.
-- And on all these nodes we'll have the container runtime installed.Whether it is master or worker nodes,ontainer runtime is mandatory
+- And on all these nodes we'll have the container runtime installed.Whether it is master or worker nodes,
+container runtime is mandatory
