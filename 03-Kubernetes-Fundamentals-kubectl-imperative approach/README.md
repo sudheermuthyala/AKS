@@ -47,11 +47,8 @@ container runtime is mandatory
 * **Kube-Proxy :**
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
 ## Kubernetes - Architecture
-Kube
-Controller 
-Manager
-Cloud 
-Controller 
+Kube Controller Manager
+Cloud Controller 
 Manager
 kube-apiserver
 kubescheduler etcd
