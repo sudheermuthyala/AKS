@@ -9,3 +9,4 @@ Explore AKS Cluster using kubectl and Azure Mgmt Console
 Setup Azure CLI on Local Desktop
 
 Setup Azure CLI on Local Desktop
+sample testing
