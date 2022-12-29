@@ -89,3 +89,4 @@ kubectl delete pod my-first-pod
 - **Ports**
     - **port**: Port on which node port service listens in Kubernetes cluster internally
     - **targetPort**: We define container port here on which our application is running.
+- Verify the following before LB Service creation
