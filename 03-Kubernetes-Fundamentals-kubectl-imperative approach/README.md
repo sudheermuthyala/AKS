@@ -111,11 +111,11 @@ Kubernetes - Imperative & Declarative
 - Example: Two NGINX containers in single POD serving same purpose is not recommended.
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-43-.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-43-34.png" />
     </p>
 
 
-![](2022-12-29-12-43-34.png)
+
 
 
 
