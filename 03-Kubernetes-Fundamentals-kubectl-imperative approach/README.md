@@ -51,7 +51,7 @@ container runtime is mandatory
 ## Kubernets architecture
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-11-30-14-39-01.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-11-30-14-39-01.png" />
     </p>
 
 # 19 Introduction to Kubernets Fundamentals
@@ -76,13 +76,13 @@ container runtime is mandatory
 Kubernetes - Fundamentals
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-01-47.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-01-47.png" />
     </p>
 
 Kubernetes - Imperative & Declarative
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-21-20.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-21-20.png" />
     </p>
 
 
@@ -97,21 +97,21 @@ Kubernetes - Imperative & Declarative
 - A POD is the smallest object that we can create in Kubernetes. 
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-33-40.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-33-40.png" />
     </p>
 
 - PODs generally have one to one relationship with containers
 - To scale up we create new POD and to scale down we delete the POD.
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-41-28.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-41-28.png" />
     </p>
 
 - We `cannot` have multiple containers of same kind in a single POD. 
 - Example: Two NGINX containers in single POD serving same purpose is **not recommended**.
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-43-34.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-43-34.png" />
     </p>
 
 # Kubernetes – Multi-Container Pods
@@ -126,11 +126,11 @@ Kubernetes - Imperative & Declarative
 - Multi-Container Pods is a rare use-case and we will try to focus on core fundamentals. 
 
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-52-40.png" />
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/2022-12-29-12-52-40.png" />
     </p>
 
 
-[20](https://github.com/sudheermuthyala/AKSDOCS/tree/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach#20introduction-to-kubernetes-pods)
+[20](https://github.com/sudheermuthyala/AKSDOCS/tree/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images#20introduction-to-kubernetes-pods)
 
 
-03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images
+03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images/images
