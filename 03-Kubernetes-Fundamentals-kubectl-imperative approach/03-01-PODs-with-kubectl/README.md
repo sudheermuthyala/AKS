@@ -120,3 +120,5 @@ http://<External-IP-from-get-service-output>
         - Frontend IP Configuration
         - Load Balancing Rules
     - Azure Public IP
+
+    
