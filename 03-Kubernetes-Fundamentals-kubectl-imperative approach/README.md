@@ -108,8 +108,7 @@ Kubernetes - Imperative & Declarative
     </p>
 
 - We cannot have multiple containers of same kind in a single POD. 
-
-Example: Two NGINX containers in single POD serving same purpose is not recommended. 
+- Example: Two NGINX containers in single POD serving same purpose is not recommended
 
 
 
