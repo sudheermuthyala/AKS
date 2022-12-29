@@ -112,7 +112,7 @@ Kubernetes - Imperative & Declarative
 
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-43-34.png" />
-    </p>
+    </p>![](2022-12-29-12-52-40.png)
 
 # Kubernetes – Multi-Container Pods
 - We can have multiple containers in a single POD, provided they are not of same kind. 
