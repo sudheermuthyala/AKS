@@ -64,3 +64,4 @@ kubectl get pods
 kubectl describe pod <Pod-Name>
 kubectl describe pod my-first-pod 
 ```
+## Access Application
