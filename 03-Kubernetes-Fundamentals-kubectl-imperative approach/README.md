@@ -55,7 +55,8 @@ container runtime is mandatory
     </p>
 
 # 19 Introduction to Kubernets Fundamentals
-## Kubernetes - Fundamentals
+## k8s Fundamentals
+
  **Pod**
 - A POD is a single instance of an Application. 
 - A POD is the smallest object, that you can create in Kubernetes.
@@ -64,6 +65,7 @@ container runtime is mandatory
 - A ReplicaSet will maintain a stable set of replica Pods running at any given time. 
 - In short, it is often used to guarantee the availability of a specified number of identical Pods
 
+**Deployment**
 
 
 
