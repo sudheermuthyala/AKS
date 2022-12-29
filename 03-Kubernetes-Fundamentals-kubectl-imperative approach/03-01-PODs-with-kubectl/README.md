@@ -86,7 +86,6 @@ kubectl delete pod my-first-pod
 
 ## Demo - Expose Pod with a Service (Load Balancer Service) 
 - Expose pod with a service (Load Balancer Service) to access the application externally (from internet)
-
 - **Ports**
     - **port**: Port on which node port service listens in Kubernetes cluster internally
     - **targetPort**: We define container port here on which our application is running.
