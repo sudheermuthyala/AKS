@@ -33,3 +33,4 @@ kubectl run ms-first-pod --image stacksimplify/kubenginx:1.0.0
 ```
 
 ## List Pods
+- Get the list of pods
