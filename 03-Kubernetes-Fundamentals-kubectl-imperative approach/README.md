@@ -87,8 +87,8 @@ Kubernetes - Imperative & Declarative
 
 
 
-## 20.Introduction to Kubernetes Pods
+# 20.Introduction to Kubernetes Pods
 
-# Kubernetes - POD
+##Kubernetes - POD
 
 
