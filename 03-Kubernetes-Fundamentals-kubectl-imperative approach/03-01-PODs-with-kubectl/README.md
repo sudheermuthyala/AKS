@@ -84,4 +84,4 @@ kubectl delete pod my-first-pod
 - What is a Load Balancer Service?
 - How it works?
 
-## Demo - Expose Pod with a Service
+## Demo - Expose Pod with a Service (Load Balancer Service) 
