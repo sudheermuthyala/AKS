@@ -131,3 +131,6 @@ Kubernetes - Imperative & Declarative
 
 
 [20](https://github.com/sudheermuthyala/AKSDOCS/tree/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach#20introduction-to-kubernetes-pods)
+
+
+03-Kubernetes-Fundamentals-kubectl-imperative%20approach/images
