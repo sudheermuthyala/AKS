@@ -22,3 +22,4 @@ kubectl get nodes -o wide
 ```
 
 ## Create a Pod
+- create Pod
