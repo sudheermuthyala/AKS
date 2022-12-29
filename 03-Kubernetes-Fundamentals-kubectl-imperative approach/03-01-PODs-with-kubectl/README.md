@@ -43,3 +43,7 @@ kubectl get po
 ```
 ## List Pods with wide option
 - List pods with wide option which also provide Node information on which Pod is running
+```
+kubectl get pods -o wide
+```
+
