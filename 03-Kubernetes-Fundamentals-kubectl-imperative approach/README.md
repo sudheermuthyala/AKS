@@ -58,6 +58,8 @@ container runtime is mandatory
 ## Kubernetes - Fundamentals
  **Pod**
 - A POD is a single instance of an Application. 
+- A POD is the smallest object, that you can create in Kubernetes.
+
 
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-01-47.png" />
