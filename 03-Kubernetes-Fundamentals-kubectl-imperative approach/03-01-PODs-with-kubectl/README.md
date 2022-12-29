@@ -123,3 +123,4 @@ http://<External-IP-from-get-service-output>
 
 ##  Interact with a Pod
 # Verify Pod Logs
+
