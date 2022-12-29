@@ -113,4 +113,5 @@ kubectl describe service my-first-service
 
 # Access Application
 http://<External-IP-from-get-service-output>
+
 ```
