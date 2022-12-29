@@ -98,7 +98,7 @@ kubectl delete pod my-first-pod
 ```
 # Create  a Pod
 kubectl run <desired-pod-name> --image <Container-Image> 
-kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 
+kubectl run msna-first-pod --image stacksimplify/kubenginx:1.0.0 
 
 # Expose Pod as a Service
 kubectl expose pod <Pod-Name>  --type=LoadBalancer --port=80 --name=<Service-Name>
