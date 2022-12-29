@@ -53,4 +53,4 @@ container runtime is mandatory
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-11-30-14-39-01.png" />
     </p>
 
-# 19 
+# 19 Introduction to Kubernets 
