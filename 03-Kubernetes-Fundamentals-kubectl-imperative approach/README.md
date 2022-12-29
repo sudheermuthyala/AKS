@@ -101,5 +101,6 @@ Kubernetes - Imperative & Declarative
     </p>
 
 - PODs generally have one to one relationship with containers
+- To scale up we create new POD and to scale down we delete the POD.
 
 
