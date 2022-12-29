@@ -23,3 +23,11 @@ kubectl get nodes -o wide
 
 ## Create a Pod
 - create Pod
+
+```
+# Template
+kubectl run <desired-pod-name> --image <Container-Image> 
+
+# Replace Pod Name, Container Image
+kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0
+```
