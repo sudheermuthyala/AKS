@@ -130,3 +130,4 @@ Kubernetes - Imperative & Declarative
     </p>
 
 
+## 21. Step-05: Create a Pod, Understand about it and delete pod
