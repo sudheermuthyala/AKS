@@ -93,4 +93,4 @@ kubectl delete pod my-first-pod
     - Azure Standard Load Balancer created for Azure AKS Cluster
         - Frontend IP Configuration
         - Load Balancing Rules
-Azure Public IP
+- Azure Public IP
