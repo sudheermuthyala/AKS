@@ -117,8 +117,8 @@ Kubernetes - Imperative & Declarative
 # Kubernetes – Multi-Container Pods
 - We can have multiple containers in a single POD, provided they are not of same kind. 
 - Helper Containers (Side-car)
-    -Data Pullers: Pull data required by Main Container
-Data pushers: Push data by collecting from main container (logs)
+    - Data Pullers: Pull data required by Main Container
+    - Data pushers: Push data by collecting from main container (logs)
 Proxies: Writes static data to html files using Helper container and Reads using Main Container. 
 Communication
 The two containers can easily communicate with each other easily as they share same network space.
