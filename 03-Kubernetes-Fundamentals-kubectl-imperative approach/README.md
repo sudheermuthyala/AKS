@@ -70,6 +70,9 @@ container runtime is mandatory
 - Rollout & rollback changes to applications. Deployments are well-suited for stateless applications.
 
 **Service**
+A service is an abstraction for pods, providing a stable, so called virtual IP (VIP) address.
+In simple terms, service sits Infront of a POD and acts as a load balancer. 
+
 
 
 
