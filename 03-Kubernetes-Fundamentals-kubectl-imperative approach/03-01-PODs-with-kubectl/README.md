@@ -124,3 +124,15 @@ http://<External-IP-from-get-service-output>
 ##  Interact with a Pod
 # Verify Pod Logs
 
+```
+# Get Pod Name
+kubectl get po
+
+# Dump Pod logs
+kubectl logs <pod-name>
+kubectl logs my-first-pod
+
+# Stream pod logs with -f option and access application to see logs
+kubectl logs <pod-name>
+kubectl logs -f my-first-pod
+```
