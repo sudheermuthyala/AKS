@@ -68,3 +68,6 @@ kubectl describe pod my-first-pod
 - Currently we can access this application only inside worker nodes.
 - To access it externally, we need to create a NodePort or Load Balancer Service
 - Services is one very very important concept in Kubernetes.
+
+## Currently we can access this application only inside worker nodes.
+To access it externally, we need to create a NodePort or Load Balancer Service.
