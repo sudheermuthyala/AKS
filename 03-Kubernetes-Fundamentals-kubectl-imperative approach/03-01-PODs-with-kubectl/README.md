@@ -52,3 +52,5 @@ kubectl get pods -o wide
 3. Pulled the docker image from docker hub
 4. Created the container in the pod
 5. Started the container present in the pod
+
+## 
