@@ -80,3 +80,4 @@ kubectl delete pod my-first-pod
 ```
 
 ## Load Balancer Service Introduction
+- What are Services in k8s?
