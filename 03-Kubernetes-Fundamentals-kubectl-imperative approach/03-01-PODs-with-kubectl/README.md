@@ -29,7 +29,7 @@ kubectl get nodes -o wide
 kubectl run <desired-pod-name> --image <Container-Image> 
 
 # Replace Pod Name, Container Image
-kubectl run ms-first-pod --image stacksimplify/kubenginx:1.0.0
+kubectl run msN-first-pod --image stacksimplify/kubenginx:1.0.0
 ```
 
 ## List Pods
