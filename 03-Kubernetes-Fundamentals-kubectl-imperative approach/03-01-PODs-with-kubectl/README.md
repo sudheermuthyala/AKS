@@ -121,4 +121,5 @@ http://<External-IP-from-get-service-output>
         - Load Balancing Rules
     - Azure Public IP
 
-    
+##  Interact with a Pod
+# Verify Pod Logs
