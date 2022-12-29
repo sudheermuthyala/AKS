@@ -41,3 +41,5 @@ kubectl get pods
 # Alias name for pods is po
 kubectl get po
 ```
+## List Pods with wide option
+- List pods with wide option which also provide Node information on which Pod is running
