@@ -59,6 +59,12 @@ container runtime is mandatory
  **Pod**
 - A POD is a single instance of an Application. 
 - A POD is the smallest object, that you can create in Kubernetes.
+**ReplicaSet**
+- 
+
+
+
+
 
 
 <p align="center">
