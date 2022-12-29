@@ -132,4 +132,4 @@ Kubernetes - Imperative & Declarative
 
 ## 21. [Create a Pod, Understand about it and delete pod](https://github.com/sudheermuthyala/AKSDOCS/tree/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/03-01-PODs-with-kubectl#kubernetes---pods)
 
-## 22. Step-06: Load Balancer Service Introduction
+## 22. [Step-06: Load Balancer Service Introduction]()
