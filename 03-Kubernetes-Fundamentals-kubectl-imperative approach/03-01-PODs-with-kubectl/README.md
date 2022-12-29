@@ -91,4 +91,6 @@ kubectl delete pod my-first-pod
     - **targetPort**: We define container port here on which our application is running.
 - Verify the following before LB Service creation
     - Azure Standard Load Balancer created for Azure AKS Cluster
-        
+        - Frontend IP Configuration
+        - Load Balancing Rules
+Azure Public IP
