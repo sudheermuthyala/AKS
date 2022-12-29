@@ -3,9 +3,9 @@
   "updateInterval": 5,
   "logging": false,
   "silent": false,
-  "commitMessage": "--- 
-  AKSDOCS
-  Auto Git Commit ---",
+  "commitMessage": "--- AKSDOCS Auto Git Commit ---",
   "locale": "en-US",
   "timeZone": "Europe/Berlin"
 }
+
+
