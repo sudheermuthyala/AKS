@@ -113,5 +113,8 @@ Kubernetes - Imperative & Declarative
 
 
 
+![](2022-12-29-12-43-34.png)
+
+
 
 
