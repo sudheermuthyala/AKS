@@ -54,4 +54,5 @@ kubectl get pods -o wide
 5. Started the container present in the pod
 
 ## Describe Pod
-- Describe the POD, primarily required during troubleshooting.Events shown will be of a great help during troubleshooting.
+- Describe the POD, primarily required during troubleshooting.
+- Events shown will be of a great help during troubleshooting.
