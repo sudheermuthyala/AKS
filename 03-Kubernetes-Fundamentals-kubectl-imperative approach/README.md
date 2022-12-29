@@ -90,7 +90,7 @@ Kubernetes - Imperative & Declarative
 # 20.Introduction to Kubernetes Pods
 
 ## Kubernetes - POD
-With Kubernetes our core goal will be to deploy our applications in the form of containers on worker nodes in a k8s cluster. 
+- With Kubernetes our core goal will be to deploy our applications in the form of containers on worker nodes in a k8s cluster. 
 Kubernetes does not deploy containers directly on the worker nodes.
 Container is encapsulated in to a Kubernetes Object named POD.
 A POD is a single instance of an application.
