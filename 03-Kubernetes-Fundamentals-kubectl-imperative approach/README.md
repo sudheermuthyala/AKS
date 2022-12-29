@@ -81,7 +81,6 @@ Kubernetes - Fundamentals
 
 Kubernetes - Imperative & Declarative
 
-
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-21-20.png" />
     </p>
