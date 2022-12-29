@@ -85,3 +85,4 @@ kubectl delete pod my-first-pod
 - How it works?
 
 ## Demo - Expose Pod with a Service (Load Balancer Service) 
+- Expose pod with a service (Load Balancer Service) to access the application externally (from internet)
