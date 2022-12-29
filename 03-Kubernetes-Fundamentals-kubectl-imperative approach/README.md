@@ -55,4 +55,3 @@ container runtime is mandatory
 
 # 19 Introduction to Kubernets Fundamentals
 ## Kubernetes - Fundamentals
-![](2022-12-29-11-58-46.png)
