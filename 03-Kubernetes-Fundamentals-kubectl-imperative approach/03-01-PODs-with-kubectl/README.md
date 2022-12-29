@@ -78,3 +78,4 @@ kubectl get pods
 kubectl delete pod <Pod-Name>
 kubectl delete pod my-first-pod
 ```
+
