@@ -70,3 +70,11 @@ kubectl describe pod my-first-pod
 - Services is one very very important concept in Kubernetes.
 
 ## Delete Pod
+```
+# To get list of pod names
+kubectl get pods
+
+# Delete Pod
+kubectl delete pod <Pod-Name>
+kubectl delete pod my-first-pod
+```
