@@ -96,7 +96,12 @@ Kubernetes - Imperative & Declarative
 - A POD is a single instance of an application.
 - A POD is the smallest object that we can create in Kubernetes. 
 
-![](2022-12-29-12-33-40.png)
+
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-21-20.png" />
+    </p>
+
+![]()
 
 
 
