@@ -115,3 +115,8 @@ kubectl describe service my-first-service
 http://<External-IP-from-get-service-output>
 
 ```
+- Verify the following ***before*** LB Service creation
+    - Azure Standard Load Balancer created for Azure AKS Cluster
+        - Frontend IP Configuration
+        - Load Balancing Rules
+    - Azure Public IP
