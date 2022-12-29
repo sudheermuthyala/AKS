@@ -125,12 +125,9 @@ Kubernetes - Imperative & Declarative
     - They can also easily share same storage space. 
 - Multi-Container Pods is a rare use-case and we will try to focus on core fundamentals. 
 
-
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-52-40.png" />
     </p>
 
 
 
-
-https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/
