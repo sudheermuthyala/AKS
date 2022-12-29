@@ -48,3 +48,7 @@ kubectl get pods -o wide
 ```
 
 ## What happened in the backgroup when above command is run?
+Kubernetes created a pod
+Pulled the docker image from docker hub
+Created the container in the pod
+Started the container present in the pod
