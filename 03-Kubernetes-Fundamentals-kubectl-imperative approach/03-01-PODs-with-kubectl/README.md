@@ -94,3 +94,23 @@ kubectl delete pod my-first-pod
         - Frontend IP Configuration
         - Load Balancing Rules
     - Azure Public IP
+
+```
+# Create  a Pod
+kubectl run <desired-pod-name> --image <Container-Image> 
+kubectl run my-first-pod --image stacksimplify/kubenginx:1.0.0 
+
+# Expose Pod as a Service
+kubectl expose pod <Pod-Name>  --type=LoadBalancer --port=80 --name=<Service-Name>
+kubectl expose pod my-first-pod  --type=LoadBalancer --port=80 --name=my-first-service
+
+# Get Service Info
+kubectl get service
+kubectl get svc
+
+# Describe Service
+kubectl describe service my-first-service
+
+# Access Application
+http://<External-IP-from-get-service-output>
+```
