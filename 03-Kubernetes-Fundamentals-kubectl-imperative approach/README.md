@@ -57,7 +57,8 @@ container runtime is mandatory
 # 19 Introduction to Kubernets Fundamentals
 ## Kubernetes - Fundamentals
  **Pod**
-    - 
+- A POD is a single instance of an Application. 
+
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-01-47.png" />
     </p>
