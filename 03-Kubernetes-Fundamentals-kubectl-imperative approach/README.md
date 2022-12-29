@@ -73,9 +73,7 @@ container runtime is mandatory
 - A service is an abstraction for pods, providing a stable, so called virtual IP (VIP) address.
 - In simple terms, service sits Infront of a POD and acts as a load balancer. 
 
-
-
-
+Kubernetes - Fundamentals
 
 <p align="center">
   <img src="https://github.com/sudheermuthyala/AKSDOCS/blob/main/03-Kubernetes-Fundamentals-kubectl-imperative%20approach/2022-12-29-12-01-47.png" />
