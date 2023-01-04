@@ -59,7 +59,8 @@ container runtime is mandatory
 
 * **Kubectl :** 
     - kubelet it is hart for the worker nodes. kubelet is an agent that runs on every node in the cluster.
-    - kubectl-agent is responsible for making sure that containers are running in a pod on a node.And these will be always in constant communication with the `kube-scheduler` So kube-scheduler, from master node, talks to worker nodes to the kubelet.
+    - kubectl-agent is responsible for making sure that containers are running in a pod on a node.
+    - And these will be always in constant communication with the `kube-scheduler` So kube-scheduler, from master node, talks to worker nodes to the kubelet.
 
 * **Kube-Proxy :**
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
