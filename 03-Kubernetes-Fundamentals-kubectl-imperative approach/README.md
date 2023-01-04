@@ -18,7 +18,8 @@ container runtime is mandatory
 1. **Container Runtime (Docker):**
 2. **etcd :**
 3. **Kube-Sheduler :**
-4.
+4. **Kube-API Server :**
+5. **kube Controller Manager :**
 
 *  **Container Runtime (Docker):** 
     - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
