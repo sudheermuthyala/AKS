@@ -18,7 +18,7 @@ container runtime is mandatory
 1. **Container Runtime (Docker):**
 2. **etcd :**
 3. **Kube-Sheduler :**
-4. **Kube-API Server :**
+4. **Kube-API Server :API (application programming interface)**
 5. **kube Controller Manager :**
 6. **Cloud Control Manager**
 
