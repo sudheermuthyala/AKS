@@ -58,7 +58,8 @@ container runtime is mandatory
     - So in worker nodes, again, the common thing here is container runtime and in container runtime is the underlying software where we run all the Kubernetes components.So we are using docker, but we have other runtime optionslike RKTR, container D, etc.
 
 * **Kubectl :** 
-    - kubelet it is hart for the worker nodes. kubelet is the agent that runs on every node in the cluster kubectl-agent is responsible for making sure that containers are running in a pod on a node.And these will be always in constant communication with the `kube-scheduler` So kube-scheduler, from master node, talks to worker nodes to the kubelet.
+    - kubelet it is hart for the worker nodes. kubelet is the agent that runs on every node in the cluster.
+    - kubectl-agent is responsible for making sure that containers are running in a pod on a node.And these will be always in constant communication with the `kube-scheduler` So kube-scheduler, from master node, talks to worker nodes to the kubelet.
 
 * **Kube-Proxy :**
     -  So it is a network proxy that runs on each node in your cluster It maintains the network rules on the nodes
