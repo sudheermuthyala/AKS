@@ -15,7 +15,8 @@
 container runtime is mandatory
 
 ## 1.Master Node COmponents
-1.  **Container Runtime (Docker):** 
+1.  **Container Runtime (Docker):**
+2.**etcd :**
 
 *  **Container Runtime (Docker):** 
     - This is common across the Master and the worker Nodes. to runn our respective pods component present in side that master  
