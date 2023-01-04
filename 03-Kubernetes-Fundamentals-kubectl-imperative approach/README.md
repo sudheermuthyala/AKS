@@ -24,6 +24,7 @@ container runtime is mandatory
 * **Kube-Sheduler :**
     - A scheduler watches for newly created Pods that have no Node assigned.
     - For every Pod that the scheduler discovers, the scheduler becomes responsible for finding the best Node for that Pod to run on. 
+    - Kube-scheduler selects an optimal node to run newly created or not yet scheduled (unscheduled) pods.
     - So it is responsible for distributing containers across multiple nodes,which is nothing but multiple worker nodes.
     - It watches for newly created pods with no assigned node and selects a node for them to run on.
 * **Kube-APIServer :**
