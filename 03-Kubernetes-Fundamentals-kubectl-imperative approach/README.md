@@ -39,7 +39,7 @@ container runtime is mandatory
     - It will Talk ot All the components in the ***master Node components*** and ***worker node components***
 
 * **kube Controller Manager :**
-    - kube Controller Manager are responsible for noticing, then responding when nodes, containers,or endpoints go down.
+    - kube Controller Manager are responsible for noticing, then responding when **nodes**, containers,or endpoints go down.
     - So we'll have different controllers available here.
     - `node controllers` who are responsible for noticing and responding when worker nodes are down.
     - `replication controllers`, responsible for maintaining the correct number of ports for every application.
