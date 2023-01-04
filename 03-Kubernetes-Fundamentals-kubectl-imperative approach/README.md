@@ -23,6 +23,7 @@ container runtime is mandatory
     - Used as a kubernetes backing store for all cluster Data it stores all Master and Node information.
 * **Kube-Sheduler :**
     - A scheduler watches for newly created Pods that have no Node assigned.
+    - For every Pod that the scheduler discovers, the scheduler becomes responsible for finding the best Node for that Pod to run on. 
     - So it is responsible for distributing containers across multiple nodes,which is nothing but multiple worker nodes.
     - It watches for newly created pods with no assigned node and selects a node for them to run on.
 * **Kube-APIServer :**
