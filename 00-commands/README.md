@@ -42,3 +42,22 @@ http://<External-IP-from-get-service-output>
 
 ## To What are events Occured 
 - kubectl describe pods `myapp1-deployment-6f6b58f6d7-9nz67`
+
+## Configure Cluster Creds (kube config) for Azure AKS Clusters
+
+```t
+# Configure Cluster Creds (kube config) for Azure AKS Clusters
+
+az aks get-credentials --resource-group <Resource-Group-Name> --name <Cluster-Name>
+
+# Replace Resource Group & Cluster Name
+
+az aks get-credentials --resource-group aks-rg-1 --name aks-Demo-cluster
+
+# Get Worker Node Status
+kubectl get nodes
+
+# Get Worker Node Status with wide option
+kubectl get nodes -o wide
+
+```
