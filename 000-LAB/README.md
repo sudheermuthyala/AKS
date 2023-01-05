@@ -1,1 +1,3 @@
-## Create 
+## Create pod 
+
+kubectl run pod 
