@@ -1,6 +1,7 @@
 ## 1. Create pod 
 
 ```t
+# syntax
 kubectl run pod <Desired-podname> --image stacksimplify/kubenginx:1.0.0 
 
 # example
