@@ -20,4 +20,5 @@ kubectl expose pod msn-first-pod --type=LoadBalancer --port=80 --name=myfirst-se
 
 # To check the service 
 kubectl get service
+
 ```
