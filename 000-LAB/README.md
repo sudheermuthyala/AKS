@@ -16,5 +16,5 @@ kubectl run msn-first-pod --image stacksimplify/kubenginx:1.0.0
 kubectl expose pod <pod-name> --type=LoadBalancer --port=80 --name=<Desired-Service-name>
 
 # example 
-kubectl expose pod msn-first-pod --type=LoadBalancer --port=80 --name=
+kubectl expose pod msn-first-pod --type=LoadBalancer --port=80 --name=myfirst-serv
 ```
