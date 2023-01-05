@@ -3,6 +3,9 @@
 ```
 kubectl run pod <Desired-podname> --image stacksimplify/kubenginx:1.0.0 
 
+exa
+kubectl run msn-first-pod --image stacksimplify/kubenginx:1.0.0 
+
 
 ```
 ## 2. Expose Pod with a Service (Load Balancer Service)
