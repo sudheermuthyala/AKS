@@ -1,3 +1,3 @@
 ## Create pod 
 
-kubectl run pod <Desired-podname>
+kubectl run pod <Desired-podname> --image
