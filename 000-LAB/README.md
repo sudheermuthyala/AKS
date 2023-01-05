@@ -17,4 +17,5 @@ kubectl expose pod <pod-name> --type=LoadBalancer --port=80 --name=<Desired-Serv
 
 # example 
 kubectl expose pod msn-first-pod --type=LoadBalancer --port=80 --name=myfirst-services-loadbalancer
+
 ```
