@@ -1,9 +1,9 @@
 ## 1. Create pod 
 
-```
+```t
 kubectl run pod <Desired-podname> --image stacksimplify/kubenginx:1.0.0 
 
-exa
+# example
 kubectl run msn-first-pod --image stacksimplify/kubenginx:1.0.0 
 
 
