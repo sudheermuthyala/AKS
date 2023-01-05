@@ -8,5 +8,5 @@ kubectl run pod <Desired-podname> --image stacksimplify/kubenginx:1.0.0
 
 ```
 kubectl expose pod <pod-name> --type=LoadBalancer --port=80 --name=<Desired-Service-name>
-
+kubectl expose pod 
 ```
